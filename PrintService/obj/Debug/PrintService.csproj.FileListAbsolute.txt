@@ -1,0 +1,6 @@
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\bin\PrintService.dll.config
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\bin\PrintService.dll
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\bin\PrintService.pdb
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\obj\Debug\PrintService.csprojResolveAssemblyReference.cache
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\obj\Debug\PrintService.dll
+c:\users\dorad\documents\visual studio 2013\Projects\PrintService\PrintService\obj\Debug\PrintService.pdb
